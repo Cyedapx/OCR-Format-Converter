@@ -1,0 +1,5 @@
+Flask==2.0.1
+Pillow==8.3.1
+pytesseract==0.3.8
+reportlab==3.5.68
+python-docx==0.8.11
